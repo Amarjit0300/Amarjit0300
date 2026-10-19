@@ -91,8 +91,8 @@
 
 | Project | Domain & Architecture | Live Application | Source Code |
 | :--- | :--- | :---: | :---: |
-| 🚜 **Sonalika Tractor Sales Analytics** | **Enterprise BI Dashboard**: Power BI, Advanced DAX, 20+ SQL production queries, regional sales velocity & demand forecasting | 📊 Enterprise Case Study | `🔒 Enterprise Confidential` |
-| 🩺 **Clinical Diabetes Predictive Analytics** | **Machine Learning & EDA**: Python, Pandas, NumPy, Scikit-Learn, Streamlit. Diagnostic classification & feature correlation analysis | 🔬 Diagnostic ML App | `🔒 Private Repository` |
+| 🚜 **Sonalika Tractor & Sales BI Analytics** | **Enterprise BI Dashboard**: Interactive sales analytics, dynamic KPI slicing, regional profit velocity & Excel/PDF reporting | [🌐 Live Dashboard](https://sales-data-dashboard-xi.vercel.app) | `🔒 Enterprise Confidential` |
+| 🩺 **Clinical Diabetes Predictive Analytics** | **Machine Learning & EDA**: Python, Pandas, NumPy, Scikit-Learn. Diagnostic classification & risk assessment | [🌐 Live Demo](https://diabetes-prediction-chi-liard.vercel.app) | `🔒 Private Repository` |
 | 🎓 **Learnify – EdTech Analytics & Platform** | **Database & Engagement Metrics**: Next.js 16, Prisma, PostgreSQL (Supabase), multi-role RBAC, student progress telemetry & reporting | [🌐 Live Demo](https://learnify-two-silk.vercel.app) | `🔒 Private Repository` |
 | 🏎️ **MY WORLD – 3D Interactive Telemetry** | **Interactive Visualization**: Three.js, WebGL, procedural automotive engine telemetry, real-time physics simulation | [🌐 Live Demo](https://amarjit-world.vercel.app) | `🔒 Private Repository` |
 
