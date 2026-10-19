@@ -89,12 +89,12 @@
 
 ### 📊 Featured Analytics Case Studies & Projects
 
-| Project | Domain & Architecture | Live Demo | Repository |
+| Project | Domain & Architecture | Live Application | Source Code |
 | :--- | :--- | :---: | :---: |
-| 🚜 **Sonalika Tractor Sales Analytics** | **Enterprise BI Dashboard**: Power BI, Advanced DAX, 20+ SQL production queries, regional sales velocity & demand forecasting | 📊 Enterprise Case Study | [💻 GitHub](https://github.com/Amarjit0300) |
-| 🩺 **Clinical Diabetes Predictive Analytics** | **Machine Learning & EDA**: Python, Pandas, NumPy, Scikit-Learn, Streamlit. Diagnostic classification & feature correlation analysis | [🌐 Live App](https://github.com/Amarjit0300) | [💻 Source](https://github.com/Amarjit0300) |
-| 🎓 **Learnify – EdTech Analytics & Platform** | **Database & Engagement Metrics**: Next.js 16, Prisma, PostgreSQL (Supabase), multi-role RBAC, student progress telemetry & reporting | [🌐 Live Demo](https://learnify-two-silk.vercel.app) | [💻 Source](https://github.com/Amarjit0300/learnify) |
-| 🏎️ **MY WORLD – 3D Interactive Telemetry** | **Interactive Visualization**: Three.js, WebGL, procedural automotive engine telemetry, real-time physics simulation | [🌐 Live Demo](https://amarjit-world.vercel.app) | [💻 Source](https://github.com/Amarjit0300/MY-WORLD) |
+| 🚜 **Sonalika Tractor Sales Analytics** | **Enterprise BI Dashboard**: Power BI, Advanced DAX, 20+ SQL production queries, regional sales velocity & demand forecasting | 📊 Enterprise Case Study | `🔒 Enterprise Confidential` |
+| 🩺 **Clinical Diabetes Predictive Analytics** | **Machine Learning & EDA**: Python, Pandas, NumPy, Scikit-Learn, Streamlit. Diagnostic classification & feature correlation analysis | 🔬 Diagnostic ML App | `🔒 Private Repository` |
+| 🎓 **Learnify – EdTech Analytics & Platform** | **Database & Engagement Metrics**: Next.js 16, Prisma, PostgreSQL (Supabase), multi-role RBAC, student progress telemetry & reporting | [🌐 Live Demo](https://learnify-two-silk.vercel.app) | `🔒 Private Repository` |
+| 🏎️ **MY WORLD – 3D Interactive Telemetry** | **Interactive Visualization**: Three.js, WebGL, procedural automotive engine telemetry, real-time physics simulation | [🌐 Live Demo](https://amarjit-world.vercel.app) | `🔒 Private Repository` |
 
 ---
 
