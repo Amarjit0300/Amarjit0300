@@ -1,123 +1,168 @@
 <div align="center">
 
-# Hi, I'm Amarjit Singh 👋
-### 📊 Data Analyst & Business Intelligence Specialist
+  <!-- ==================== ANIMATED HEADER & TYPING BANNER ==================== -->
+  <a href="https://amarjit-world.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0284c7,100:38bdf8&height=210&section=header&text=Amarjit%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Specialist&descSize=18&descColor=bae6fd&descAlignY=58" width="100%" alt="Amarjit Singh Header" />
+  </a>
 
-<p align="center">
-  <a href="https://amarjit-world.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-amarjit--world.vercel.app-00f0ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  <!-- TYPING SVG SUBTITLE -->
+  <a href="https://amarjit-world.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=40&lines=📊+Data+Analyst+%26+Business+Intelligence+Specialist;⚡+Power+BI+•+Advanced+SQL+•+Python+•+Machine+Learning;🚀+Transforming+Complex+Data+into+Actionable+Insights;🌌+Explore+my+Open-World+3D+Portfolio!" alt="Typing Subtitle" />
   </a>
-  <a href="https://www.linkedin.com/in/amarjit-singh07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amarjit_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:amarjitsinghreehal1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/amarjit_singh.47" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@amarjit.__.singh.47-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
-<!-- Dynamic Typing Animation Banner -->
-<a href="https://amarjit-world.vercel.app" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Data+Analyst+%26+Business+Intelligence+Specialist;Power+BI+Dashboards+%26+Interactive+Data+Storytelling;Advanced+SQL+Pipelines+%26+Relational+Data+Modeling;Python+Data+Analytics+(Pandas%2C+NumPy%2C+EDA);Ex-Data+Analyst+Trainee+%40+Sonalika+Group+(ITL);Transforming+Raw+Data+Into+Actionable+Business+Decisions" alt="Typing SVG" />
-</a>
+  <br/>
+
+  <!-- QUICK ACTION & SOCIAL BADGES -->
+  <p align="center">
+    <a href="https://amarjit-world.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/3D_Universe-Live_Portfolio-00F0FF?style=for-the-badge&logo=three.js&logoColor=00F0FF&labelColor=0d1117" alt="3D Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/amarjit-singh07" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Amarjit_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:amarjitsinghreehal1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/amarjit._.singh.47" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@amarjit._.singh.47-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Amarjit0300">
+      <img src="https://komarev.com/ghpvc/?username=Amarjit0300&label=PROFILE+VIEWS&color=00B8FF&style=for-the-badge&labelColor=0d1117" alt="Views" />
+    </a>
+  </p>
+
+</div>
+
+<br/>
+
+---
+
+### 💼 Executive Summary & Key Milestones
+
+<div align="center">
+
+| Metric | Achievement | Impact & Domain |
+| :---: | :---: | :--- |
+| **📉 -40%** | **Manual Reporting Time** | Automated enterprise sales KPI reporting across 5 departments at **Sonalika Group (ITL)**. |
+| **⚡ 20+** | **Production SQL Queries** | Authored CTEs, Window Functions, and multi-table analytical joins across relational schemas. |
+| **🎯 87%** | **Predictive Accuracy** | Trained supervised binary classification models at **NIELIT** for early clinical risk detection. |
+| **🎓 MCA** | **Master of Computer Apps** | Specializing in Data Analytics, Distributed Systems & Applied ML at **Chandigarh University** ('27). |
+
+</div>
+
+- 🚜 **Data Analyst Trainee @ Sonalika Group (International Tractors Ltd)**:
+  - Engineered production-ready sales performance dashboards in **Power BI** tracking 10+ operational KPIs.
+  - Authored **20+ optimized SQL queries** to extract, transform, and validate transactional sales databases.
+  - Partnered with cross-functional leadership to deliver critical regional sales velocity insights.
+- 🔬 **Predictive Analytics & Statistical Modeling**:
+  - Built end-to-end Exploratory Data Analysis (EDA) pipelines in **Python** (`Pandas`, `NumPy`, `Scikit-Learn`, `Matplotlib`, `Seaborn`).
+- 🗄️ **Database Architecture & Metrics Pipelines**:
+  - Designed relational schemas (`PostgreSQL`, `Supabase`, `MySQL`) and tracking pipelines for data-driven applications like **Learnify** (cohort engagement analytics) and **MY WORLD** (real-time telemetry).
+
+---
+
+### 🛠️ Analytical & Technical Arsenal
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Business Intelligence & Viz** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-2D3748?style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
+| **Databases & Querying** | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+| **Data Science & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+| **Full-Stack & Systems** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 </div>
 
 ---
 
-### 👨‍💻 Executive Summary
-
-- 🎓 **Master of Computer Applications (MCA)** graduate/candidate specializing in **Data Analytics, Business Intelligence, and Statistical Modeling**.
-- 🚜 **Data Analyst Trainee @ Sonalika Group (International Tractors Ltd)**: Engineered production-ready sales performance dashboards in **Power BI**, authored 20+ optimized SQL queries (CTEs, Window Functions, Multi-table Joins), and delivered critical regional sales velocity insights to business stakeholders.
-- 🩺 **Predictive Analytics & Statistical Modeling**: Developed predictive machine learning models and end-to-end Exploratory Data Analysis (EDA) pipelines in Python (**Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn**).
-- 🗄️ **Database Architecture & Metrics Pipelines**: Designed relational schemas (PostgreSQL, Supabase, MySQL) and tracking pipelines for data-driven applications like **[Learnify](https://learnify-two-silk.vercel.app)** (student cohort engagement analytics) and **[MY WORLD](https://amarjit-world.vercel.app)** (real-time telemetry & metrics).
-- 📬 **Let's Connect**: [amarjitsinghreehal1@gmail.com](mailto:amarjitsinghreehal1@gmail.com) • [LinkedIn](https://www.linkedin.com/in/amarjit-singh07/)
-
----
-
-### 🛠️ Technical Arsenal
-
-<table>
-  <tr>
-    <td width="26%"><strong>Data Analytics & BI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-      <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX" />
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases & SQL</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data Analytics Tools & Workflow</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-      <img src="https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI Desktop" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Featured Analytics Case Studies & Projects
-
-| Project | Domain & Architecture | Live Application | Source Code |
-| :--- | :--- | :---: | :---: |
-| 🚜 **Sonalika Tractor & Sales BI Analytics** | **Enterprise BI Dashboard**: Interactive sales analytics, dynamic KPI slicing, regional profit velocity & Excel/PDF reporting | [🌐 Live Dashboard](https://sales-data-dashboard-xi.vercel.app) | `🔒 Enterprise Confidential` |
-| 🩺 **Clinical Diabetes Predictive Analytics** | **Machine Learning & EDA**: Python, Pandas, NumPy, Scikit-Learn. Diagnostic classification & risk assessment | [🌐 Live Demo](https://diabetes-prediction-chi-liard.vercel.app) | `🔒 Private Repository` |
-| 🎓 **Learnify – EdTech Analytics & Platform** | **Database & Engagement Metrics**: Next.js 16, Prisma, PostgreSQL (Supabase), multi-role RBAC, student progress telemetry & reporting | [🌐 Live Demo](https://learnify-two-silk.vercel.app) | `🔒 Private Repository` |
-| 🏎️ **MY WORLD – 3D Interactive Telemetry** | **Interactive Visualization**: Three.js, WebGL, procedural automotive engine telemetry, real-time physics simulation | [🌐 Live Demo](https://amarjit-world.vercel.app) | `🔒 Private Repository` |
-
----
-
-### 📈 GitHub Activity & Analytics
+### 📂 Featured Production Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amarjit0300&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=79c0ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjit0300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+
+| Project | Tech Stack | Impact & Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **📊 Sales Data Analytics Dashboard** | `Power BI` `SQL` `DAX` `Excel` | Enterprise dashboard tracking 10+ KPIs across 5 departments; cut manual reporting by 40%. | [Live App](https://sales-data-dashboard-xi.vercel.app) • [Code](https://github.com/Amarjit0300/sales-data-dashboard) |
+| **🌌 Amarjit’s 3D Universe Portfolio** | `Three.js` `React` `R3F` `Tailwind` | Open-world AAA interactive portfolio with physics driving, multiverse portals & live HUD telemetry. | [Live App](https://amarjit-world.vercel.app) • [Code](https://github.com/Amarjit0300/MY-WORLD) |
+| **🩺 Diabetes Prediction ML System** | `Python` `Scikit-Learn` `FastAPI` | Supervised binary classification model with **87% accuracy** validated through precision & recall. | [Live App](https://diabetes-prediction-chi-liard.vercel.app) • [Code](https://github.com/Amarjit0300/diabetes-prediction) |
+| **📋 Agile Task Management Platform** | `Next.js 15` `PostgreSQL` `Supabase` | Enterprise sprint velocity tracking with 5+ relational schemas; reduced team overhead by 30%. | [Live App](https://task-managment-two-hazel.vercel.app) • [Code](https://github.com/Amarjit0300/task-managment) |
+
 </div>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Amarjit0300&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak" />
-</p>
-
 ---
 
+<!-- ==================== GITHUB ACTIVITY & ANALYTICS ==================== -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/amarjit-singh07/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_On_LinkedIn-Amarjit_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:amarjitsinghreehal1@gmail.com">
-    <img src="https://img.shields.io/badge/Hire_Me_As_Data_Analyst-Email_Now-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
-  </a>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" alt="divider" />
   <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=Amarjit0300&label=Profile%20Views&color=0&icon=5" alt="Profile Views" />
+
+  <h2 align="center">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" height="30" align="center" />
+    <span style="font-size: 24px; font-weight: 700; color: #38bdf8;"> GitHub Activity & Analytics</span>
+  </h2>
+  <p align="center"><i>Real-time telemetry, language breakdown & repository insights</i></p>
+
+  <br/>
+
+  <!-- STATS & TOP LANGUAGES (SIDE-BY-SIDE) -->
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <td align="center" valign="top" style="border: none; padding: 6px;">
+        <a href="https://github.com/Amarjit0300">
+          <img 
+            src="https://github-readme-stats.vercel.app/api?username=Amarjit0300&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&border_radius=10&cache_seconds=1800" 
+            alt="Amarjit's GitHub Stats" 
+            height="180" 
+          />
+        </a>
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 6px;">
+        <a href="https://github.com/Amarjit0300">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjit0300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_radius=10&cache_seconds=1800" 
+            alt="Amarjit's Top Languages" 
+            height="180" 
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- COMMIT STREAK -->
+  <a href="https://github.com/Amarjit0300">
+    <img 
+      src="https://streak-stats.demolab.com/?user=Amarjit0300&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&border_radius=10" 
+      alt="Amarjit's Contribution Streak" 
+      width="95%" 
+      style="max-width: 600px;" 
+    />
+  </a>
+
+  <br/><br/>
+
+  <!-- COMMIT WAVE GRAPH -->
+  <a href="https://github.com/Amarjit0300">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Amarjit0300&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f59e0b&area=true&hide_title=true&radius=10" 
+      alt="Amarjit's Activity Wave Graph" 
+      width="95%" 
+      style="max-width: 780px;" 
+    />
+  </a>
+
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" alt="divider" />
+  <br/><br/>
+
+  <p align="center">
+    ⚡ <i>Crafted with passion for data-driven engineering & modern UI/UX by <b>Amarjit Singh</b></i>
+  </p>
+
 </div>
