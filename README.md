@@ -5,14 +5,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0284c7,100:38bdf8&height=210&section=header&text=Amarjit%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Specialist&descSize=18&descColor=bae6fd&descAlignY=58" width="100%" alt="Amarjit Singh Header" />
   </a>
 
-  <!-- TYPING SVG SUBTITLE -->
-  <a href="https://amarjit-world.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=40&lines=%F0%9F%93%8A+Data+Analyst+%26+Business+Intelligence+Specialist;%E2%9A%A1+Power+BI+%E2%80%A2+Advanced+SQL+%E2%80%A2+Python+%E2%80%A2+Machine+Learning;%F0%9F%9A%80+Transforming+Complex+Data+into+Actionable+Insights;%F0%9F%8C%8C+Explore+my+Open-World+3D+Portfolio!" alt="Typing Subtitle" />
-  </a>
+  <!-- NATIVE SUBTITLE (100% RELIABLE & NEVER BREAKS) -->
+  <p align="center">
+    <samp style="font-size: 15px; color: #38bdf8; font-weight: 600;">
+      ⚡ POWER BI &nbsp;•&nbsp; ADVANCED SQL &nbsp;•&nbsp; PYTHON &nbsp;•&nbsp; MACHINE LEARNING &nbsp;•&nbsp; DATA STORYTELLING
+    </samp>
+  </p>
 
   <br/>
 
-  <!-- QUICK ACTION & SOCIAL BADGES -->
+  <!-- QUICK ACTION & SOCIAL BADGES (BALANCED SYMMETRICAL GRID) -->
   <p align="center">
     <a href="https://amarjit-world.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/3D_Universe-Live_Portfolio-00F0FF?style=for-the-badge&logo=three.js&logoColor=00F0FF&labelColor=0d1117" alt="3D Portfolio" />
@@ -29,7 +31,9 @@
     <a href="https://instagram.com/amarjit._.singh.47" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-@amarjit._.singh.47-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
     </a>
-    &nbsp;
+  </p>
+
+  <p align="center">
     <a href="https://github.com/Amarjit0300">
       <img src="https://komarev.com/ghpvc/?username=Amarjit0300&label=PROFILE+VIEWS&color=00B8FF&style=for-the-badge&labelColor=0d1117" alt="Views" />
     </a>
