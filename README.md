@@ -7,7 +7,7 @@
 
   <!-- TYPING SVG SUBTITLE -->
   <a href="https://amarjit-world.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=40&lines=📊+Data+Analyst+%26+Business+Intelligence+Specialist;⚡+Power+BI+•+Advanced+SQL+•+Python+•+Machine+Learning;🚀+Transforming+Complex+Data+into+Actionable+Insights;🌌+Explore+my+Open-World+3D+Portfolio!" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=40&lines=%F0%9F%93%8A+Data+Analyst+%26+Business+Intelligence+Specialist;%E2%9A%A1+Power+BI+%E2%80%A2+Advanced+SQL+%E2%80%A2+Python+%E2%80%A2+Machine+Learning;%F0%9F%9A%80+Transforming+Complex+Data+into+Actionable+Insights;%F0%9F%8C%8C+Explore+my+Open-World+3D+Portfolio!" alt="Typing Subtitle" />
   </a>
 
   <br/>
@@ -109,24 +109,24 @@
 
   <br/>
 
-  <!-- STATS & TOP LANGUAGES (SIDE-BY-SIDE) -->
+  <!-- STATS & TOP LANGUAGES (WORKING FAST MIRROR) -->
   <table border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
     <tr style="border: none; background: transparent;">
       <td align="center" valign="top" style="border: none; padding: 6px;">
         <a href="https://github.com/Amarjit0300">
           <img 
-            src="https://github-readme-stats.vercel.app/api?username=Amarjit0300&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&border_radius=10&cache_seconds=1800" 
+            src="https://github-stats-extended.vercel.app/api?username=Amarjit0300&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&border_radius=10" 
             alt="Amarjit's GitHub Stats" 
-            height="180" 
+            height="185" 
           />
         </a>
       </td>
       <td align="center" valign="top" style="border: none; padding: 6px;">
         <a href="https://github.com/Amarjit0300">
           <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjit0300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_radius=10&cache_seconds=1800" 
+            src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amarjit0300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_radius=10" 
             alt="Amarjit's Top Languages" 
-            height="180" 
+            height="185" 
           />
         </a>
       </td>
@@ -135,23 +135,11 @@
 
   <br/>
 
-  <!-- COMMIT STREAK -->
+  <!-- YEARLY CONTRIBUTIONS HEATMAP -->
   <a href="https://github.com/Amarjit0300">
     <img 
-      src="https://streak-stats.demolab.com/?user=Amarjit0300&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&border_radius=10" 
-      alt="Amarjit's Contribution Streak" 
-      width="95%" 
-      style="max-width: 600px;" 
-    />
-  </a>
-
-  <br/><br/>
-
-  <!-- COMMIT WAVE GRAPH -->
-  <a href="https://github.com/Amarjit0300">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Amarjit0300&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f59e0b&area=true&hide_title=true&radius=10" 
-      alt="Amarjit's Activity Wave Graph" 
+      src="https://ghchart.rshah.org/38bdf8/Amarjit0300" 
+      alt="Amarjit's Contribution Heatmap" 
       width="95%" 
       style="max-width: 780px;" 
     />
