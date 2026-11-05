@@ -150,6 +150,15 @@
   </a>
 
   <br/><br/>
+
+  <!-- CONTRIBUTION SNAKE ANIMATION -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amarjit0300/Amarjit0300/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amarjit0300/Amarjit0300/output/github-contribution-grid-snake.svg" />
+    <img alt="Amarjit's Contribution Snake" src="https://raw.githubusercontent.com/Amarjit0300/Amarjit0300/output/github-contribution-grid-snake-dark.svg" width="95%" style="max-width: 780px;" />
+  </picture>
+
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" alt="divider" />
   <br/><br/>
 
